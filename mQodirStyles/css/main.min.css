@@ -1,0 +1,128 @@
+* {
+  box-sizing: border-box;
+}
+
+.Muhammad-cards {
+  width: 1179px;
+  margin: 0 auto;
+}
+.Muhammad-cards h1 {
+  text-align: center;
+  font-weight: 700;
+  font-family: "Montserrat", sans-serif;
+}
+.Muhammad-cards hr {
+  width: 884px;
+}
+.Muhammad-cards .flex {
+  display: flex;
+  gap: 28px;
+}
+.Muhammad-cards .card-1 {
+  width: 372.89px;
+  height: 467px;
+  border: 1px solid rgba(69, 88, 128, 0.2);
+  border-radius: 4px;
+  padding: 20px 35px;
+}
+.Muhammad-cards .card-1 .card-text {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 180%;
+  color: #737373;
+}
+.Muhammad-cards .card-1 .card-img {
+  display: flex;
+  justify-content: center;
+}
+.Muhammad-cards .card-1 .card-name h2 {
+  text-align: center;
+  color: #ff0000;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 125%;
+}
+.Muhammad-cards .card-1 .card-name span {
+  display: block;
+  text-align: center;
+  color: #455880;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 180%;
+}
+.Muhammad-cards .card-2 {
+  width: 372.89px;
+  height: 467px;
+  border: 1px solid rgba(69, 88, 128, 0.2);
+  border-radius: 4px;
+  padding: 20px 35px;
+}
+.Muhammad-cards .card-2 .card-text {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 180%;
+  color: #737373;
+}
+.Muhammad-cards .card-2 .card-img {
+  display: flex;
+  justify-content: center;
+}
+.Muhammad-cards .card-2 .card-name h2 {
+  text-align: center;
+  color: #ff0000;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 125%;
+}
+.Muhammad-cards .card-2 .card-name span {
+  display: block;
+  text-align: center;
+  color: #455880;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 180%;
+}
+.Muhammad-cards .card-3 {
+  width: 372.89px;
+  height: 467px;
+  border: 1px solid rgba(69, 88, 128, 0.2);
+  border-radius: 4px;
+  padding: 20px 35px;
+}
+.Muhammad-cards .card-3 .card-text {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 180%;
+  color: #737373;
+}
+.Muhammad-cards .card-3 .card-img {
+  display: flex;
+  justify-content: center;
+}
+.Muhammad-cards .card-3 .card-name h2 {
+  text-align: center;
+  color: #ff0000;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 125%;
+}
+.Muhammad-cards .card-3 .card-name span {
+  display: block;
+  text-align: center;
+  color: #455880;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 180%;
+}/*# sourceMappingURL=main.min.css.map */
