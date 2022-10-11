@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: 'Montserrat';
+    src: url(/nt-76-food-delivery/styles/assets/fonts/Montserrat-Medium.ttf);
+}
+
+section.faq{
+    .container{
+        .row{
+            .row--title{
+                font-family: 'Montserrat';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 40px;
+                line-height: 60px;      
+                text-align: center;    
+                color: #252B42;
+            }
+            table{
+                border-collapse: collapse;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                tr{
+                    td{
+                        .box{
+                            margin: 21px 22px;
+                            width: 570px;
+                            height: 248px;   
+                            border: 1px solid rgba(69, 88, 128, 0.2);
+                            border-radius: 4px;
+                            position: relative;
+                            .circle{
+                                background-image: url(/nt-76-food-delivery/styles/assets/image/restaurant-cutlery-circular-symbol-of-a-spoon-and-a-fork-in-a-circle-1\ 3.png);
+                                width: 50px;
+                                height: 50px;
+                                position: absolute;
+                                top: 28px;
+                                left: 16px;
+                            }
+                            .box--title{
+                                font-family: 'Montserrat';
+                                font-style: normal;
+                                font-weight: 700;
+                                font-size: 25px;
+                                line-height: 57px;         
+                                letter-spacing: 0.2px;
+                                color: #252B42; 
+                                margin-left: 113px;                               
+                            }
+                            .box--text{
+                                font-family: 'Montserrat';
+                                font-style: normal;
+                                font-weight: 500;
+                                font-size: 18px;
+                                line-height: 30px;                           
+                                color: #737373;
+                                margin-left: 113px;                               
+                            }
+                            .box--link{
+                                font-family: 'Montserrat';
+                                font-style: normal;
+                                font-weight: 600;
+                                font-size: 18px;
+                                line-height: 30px;
+                                color: #FF0000;
+                                margin-left: 113px;
+                                text-decoration: none;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
