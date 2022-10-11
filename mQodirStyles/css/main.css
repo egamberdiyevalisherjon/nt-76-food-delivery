@@ -13,6 +13,9 @@
 }
 .Muhammad-cards hr {
   width: 884px;
+  margin: 0 auto;
+  height: 3px;
+  background-color: #e4e4e4;
 }
 .Muhammad-cards .flex {
   display: flex;
@@ -125,4 +128,4 @@
   font-weight: 700;
   font-size: 18px;
   line-height: 180%;
-}/*# sourceMappingURL=main.css.map */
+} /*# sourceMappingURL=main.css.map */
