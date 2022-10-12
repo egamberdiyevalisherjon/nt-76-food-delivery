@@ -36,6 +36,19 @@
   line-height: 180%;
   color: #737373;
 }
+
+.Muhammad-cards .card-1 .card-text p {
+  text-align: center;
+  color: #737373;
+}
+.Muhammad-cards .card-2 .card-text p {
+  text-align: center;
+  color: #737373;
+}
+.Muhammad-cards .card-3 .card-text p {
+  text-align: center;
+  color: #737373;
+}
 .Muhammad-cards .card-1 .card-img {
   display: flex;
   justify-content: center;

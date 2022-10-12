@@ -41,6 +41,11 @@ header .navbar-ong {
   margin-right: 100px;
 }
 
+.navbar-ong a {
+  background: #000;
+  color: red;
+}
+
 .main {
   position: relative;
   width: 100%;

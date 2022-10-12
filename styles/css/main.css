@@ -15,7 +15,7 @@ section.faq .container .row .row--title {
   font-size: 40px;
   line-height: 60px;
   text-align: center;
-  color: #252B42;
+  color: #252b42;
 }
 section.faq .container .row table {
   border-collapse: collapse;
@@ -46,7 +46,7 @@ section.faq .container .row table tr td .box .box--title {
   font-size: 25px;
   line-height: 57px;
   letter-spacing: 0.2px;
-  color: #252B42;
+  color: #252b42;
   margin-left: 113px;
 }
 section.faq .container .row table tr td .box .box--text {
@@ -64,7 +64,48 @@ section.faq .container .row table tr td .box .box--link {
   font-weight: 600;
   font-size: 18px;
   line-height: 30px;
-  color: #FF0000;
+  color: #ff0000;
   margin-left: 113px;
   text-decoration: none;
+}/*# sourceMappingURL=main.css.map */  text-align: center;
+  color: #455880;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 180%;
+}
+.Muhammad-cards .card-3 {
+  width: 372.89px;
+  height: 467px;
+  border: 1px solid rgba(69, 88, 128, 0.2);
+  border-radius: 4px;
+  padding: 20px 35px;
+}
+.Muhammad-cards .card-3 .card-text {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 180%;
+  color: #737373;
+}
+.Muhammad-cards .card-3 .card-img {
+  display: flex;
+  justify-content: center;
+}
+.Muhammad-cards .card-3 .card-name h2 {
+  text-align: center;
+  color: #ff0000;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 125%;
+}
+.Muhammad-cards .card-3 .card-name span {
+  display: block;
+  text-align: center;
+  color: #455880;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 180%;
 }/*# sourceMappingURL=main.css.map */

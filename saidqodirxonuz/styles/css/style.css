@@ -28,6 +28,7 @@ header {
   width: 100%;
   padding-top: 20px;
   z-index: 999;
+  background: rgba(0, 0, 0, 0.34);
 }
 header .navbar {
   display: flex;
@@ -96,6 +97,11 @@ header .navbar-ong {
   text-align: center;
 }
 
+.navbar-ong a {
+  font-size: 20px;
+  color: red;
+}
+
 .footer {
   background: #252b42;
   display: flex;
@@ -121,4 +127,4 @@ header .navbar-ong {
   text-align: center;
   font-size: 25px;
   letter-spacing: 10px;
-}/*# sourceMappingURL=style.css.map */
+} /*# sourceMappingURL=style.css.map */
