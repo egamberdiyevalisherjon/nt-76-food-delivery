@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  height: 100%;
+  font-size: 25px;
+  background: radial-gradient(
+    circle at 100%,
+    #333,
+    #333 50%,
+    #eee 75%,
+    #333 75%
+  );
+  color: white;
+  background-repeat: no-repeat;
+
+  background-size: 100%;
+  background-position: center;
+  padding: 2rem;
+  text-align: center;
+}
+a {
+  font-size: 25px;
+  color: #201d1d;
+  position: absolute;
+  top: 130%;
+  left: 40%;
+}
